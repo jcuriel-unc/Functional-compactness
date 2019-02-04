@@ -14,6 +14,7 @@ After downloading these data, the script will compute the geographic centroids o
 
 Please note that with the google API, one should receive 20,000 free requests. Therefore, it is strongly recommended to run no more than 20,000 requests a day in order to minimize costs. Given the 214,000 CBGs within the U.S., this should allow the user to compute the functional compactness for all ZIP codes in 10 days if one souught to not spend any money. Note that the Google API can process at least 2 requests per second when deciding as to how much data that you would like to process in one sitting. 
 
+![example_zip](https://user-images.githubusercontent.com/47302709/52214916-e1b1ad00-2860-11e9-84b7-081d929d3fd0.jpg)
 
 
 ![zip_fxncomp_hist](https://user-images.githubusercontent.com/47302709/52180942-0141ca80-27ba-11e9-856e-d6e5fbd141a6.jpg)
